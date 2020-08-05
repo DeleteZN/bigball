@@ -1,0 +1,9 @@
+starting thread 0x91e42700
+thread 0x91e42700 is waiting
+starting thread 0x91641700
+thread 0x91641700 is waiting
+listen socket created 
+starting thread 0x90e40700
+thread 0x90e40700 is waiting
+starting thread 0x87e3e700
+thread 0x87e3e700 is waiting
